@@ -1,3 +1,9 @@
+# Colorization with Autoencoder
+
+The related code is in the VAE.ipynb file
+
+
+
 # NWBelegans: Tools for converting to and analyzing NWB files for _C. elegans_ whole-brain activity and NeuroPAL imaging
 
 Code for [Unifying community-wide whole-brain imaging datasets enables robust automated neuron identification and reveals determinants of neuron positioning in _C. elegans_](https://www.biorxiv.org/content/10.1101/2024.04.28.591397v1)
